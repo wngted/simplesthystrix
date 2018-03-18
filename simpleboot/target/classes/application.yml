@@ -1,0 +1,11 @@
+logging:
+  level:
+    root: DEBUG
+
+spring:
+  main:
+    show-banner: false
+  h2:
+    console:
+      enable: true
+
